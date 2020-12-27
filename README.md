@@ -9,6 +9,7 @@ Implement a python module, which will contain two functions: encode and decode.
   * OPTIONAL: both functions can be written with one line of code.
 
 Sample string for decoding (formatted for view):
+
 	01010010011101010110110001100101011100110010000001101111
 	01100110001000000100111101110000011101000110100101101101
 	01101001011110100110000101110100011010010110111101101110
